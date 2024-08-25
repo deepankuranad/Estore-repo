@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Amazon</title>
+
+</head>
+
+
+<body>
+    <h1><center><mark>AMAZON</mark></center></h1>
+    <br><br>
+
+    <h2><center>Hot products of the day</center></h2>
+    <br><br><br>
+    <center><table border="1" bordercolor="blue">
+        <th>Product NAME</th><th>Price</th><th>Images</th>
+    <tr>
+        <td>Iphone</td>
+        <td>150000</td>
+        <td><img src="images/mac.jpeg"</td>
+    </tr>
+
+    <tr>
+        <td>Samsung</td>
+        <td>120000</td>
+        <td><img src="https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/SMS918B_green_1?1724243240"width="300"height="600"</td>
+    </tr>
+
+    </table></center>
+
+    <br/><br/><br/><br/><br/>
+    
+    <video controls width="600"height="600">
+
+        <source src="video/html.mp4" type=video/mp4 />
+
+        <!-- <source src="https://cdn.pixabay.com/video/2024/01/20/197483-905015011_tiny.mp4" type=video/mp4> -->
+    </video>
+    <br/><br/><br/><br/><br/>
+    <video controls width="600">
+        <source src="https://cdn.pixabay.com/video/2024/01/20/197483-905015011_tiny.mp4" type=video/mp4>
+    </video>
+
+</BOdy>
+</HTml>
